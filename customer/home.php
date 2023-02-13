@@ -1,0 +1,1 @@
+<h1>Welcome to NUB<?php echo $_settings->info('name') ?></h1>
